@@ -15,6 +15,12 @@ LAMP一键安装包 https://lamp.sh/download.html
 oneinstack环境包 https://oneinstack.com/install/
 
 
+======
+查看目录文件大小 ```/;du -sh * ```
+
+
+======
+
 SSL证书免费 https://www.startcomca.com/SignUp
 
 
