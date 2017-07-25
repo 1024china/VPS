@@ -1,6 +1,28 @@
 # VPS 购买
 https://www.vultr.com/
 
+
+DGCHOST：美国低价电信CN2线路,联通也是直连
+
+kdatacenter：目前最快最稳定的韩国VPS。
+
+vultr：日本联通直连，最低2.5美元
+
+搬瓦工：很多人的第一台VPS..上线KVM中
+
+vcenter： 台湾 hinet 线路
+
+Linode：功能强大，建站推荐。移动推荐新加坡
+
+RFCHOST：美国cn2线路VPS，香港SV机房VPS
+
+starrydns：韩国KT线路，日本直连线路
+
+Virmach：低价之王，低价首选
+
+KVMLA：日本KDDI，香港沙田cn2，新加坡M1
+https://www.91yun.co/
+
 # VPS linux环境
 军哥https://lnmp.org/download.htm
 
