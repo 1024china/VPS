@@ -25,10 +25,10 @@ oneinstack环境包 https://oneinstack.com/install/
 
 
 ## VPS linux命令
-查看目录文件大小 ```/;du -sh * ```
+- 查看目录文件大小 ```/;du -sh * ```
 
 
-#修改root密
+- #修改root密
 ```passwd root```
 更改用户 root 的密码 。
 新的 密码：
