@@ -23,6 +23,12 @@ Virmach：低价之王，低价首选
 KVMLA：日本KDDI，香港沙田cn2，新加坡M1
 https://www.91yun.co/
 
+科学上网的终极姿势：在 Vultr VPS 上搭建 Shadowsocks https://zoomyale.com/2016/vultr_and_ss/
+
+【理论】shadowsockeSS/SSR/SSH原理解析（图文）http://blog.onedoub.club/archives/56
+
+科学上网教程（一）——VPS上搭建SSR https://jasper-1024.github.io/2016/06/26/VPS%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97/
+
 # VPS linux环境
 军哥https://lnmp.org/download.htm
 
@@ -43,7 +49,7 @@ oneinstack环境包 https://oneinstack.com/install/
 # 加速 
 
 安装 Google BBR 加速VPS网络 http://blog.leanote.com/post/quincyhuang/google-bbr
-
+VPS/服务器优化网络、加速方法总结与参考 https://www.zrj96.com/post-272.html#BBR
 
 
 ## VPS linux命令
