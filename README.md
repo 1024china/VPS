@@ -1,5 +1,8 @@
-# VPS
+# VPS 购买
 
+
+# VPS linux环境
+军哥https://lnmp.org/download.htm
 
 秋水逸冰 https://teddysun.com/ 
 
