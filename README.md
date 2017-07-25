@@ -15,6 +15,10 @@ LAMP一键安装包 https://lamp.sh/download.html
 oneinstack环境包 https://oneinstack.com/install/
 
 
+# 加速 
+
+安装 Google BBR 加速VPS网络 http://blog.leanote.com/post/quincyhuang/google-bbr
+
 ======
 
 VPS linux命令
