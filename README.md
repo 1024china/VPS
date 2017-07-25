@@ -24,7 +24,7 @@ oneinstack环境包 https://oneinstack.com/install/
 
 
 
-###### VPS linux命令
+## VPS linux命令
 查看目录文件大小 ```/;du -sh * ```
 
 
