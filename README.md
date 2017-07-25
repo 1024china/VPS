@@ -21,8 +21,8 @@ VPS linux命令
 查看目录文件大小 ```/;du -sh * ```
 
 
-#修改root密码
-passwd root
+#修改root密
+```passwd root```
 更改用户 root 的密码 。
 新的 密码：
 无效的密码： 它基于（颠倒的）字典单词
