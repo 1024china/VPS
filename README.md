@@ -30,10 +30,13 @@ https://www.91yun.co/
 科学上网教程（一）——VPS上搭建SSR https://jasper-1024.github.io/2016/06/26/VPS%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97/
 
 # VPS linux环境
-使用搬瓦工的VPS搭建博客网站 - 老高的技术博客.pdf https://drive.google.com/file/d/0BxikF7na50-sYUxiMzNDTzVxbUU/view
-在Liunx上彻底删除kangle服务器 - 老高的技术博客.pdf https://drive.google.com/file/d/0BxikF7na50-sUXNnMDJkbC1GR0k/vie
-VPS安全之SSH设置 - 老高的技术博客.pdf https://drive.google.com/file/d/0BxikF7na50-sa0JtWTBoY25pcGM/view
-VPS搭建LAMP安装WordPress建站及优化教程 (Vultr & 搬瓦工VPS亲测)https://drive.google.com/file/d/0BxikF7na50-sZWVaelllVDB5RFk/view
+**使用搬瓦工的VPS搭建博客网站 - 老高的技术博客.pdf** https://drive.google.com/file/d/0BxikF7na50-sYUxiMzNDTzVxbUU/view
+**使用搬瓦工的VPS搭建博客网站 - 老高的技术博客.pdf** https://drive.google.com/file/d/0BxikF7na50-sYUxiMzNDTzVxbUU/view
+**在Liunx上彻底删除kangle服务器 - 老高的技术博客.pdf **https://drive.google.com/file/d/0BxikF7na50-sUXNnMDJkbC1GR0k/vie
+**VPS安全之SSH设置 - 老高的技术博客.pdf **https://drive.google.com/file/d/0BxikF7na50-sa0JtWTBoY25pcGM/view
+**VPS搭建LAMP安装WordPress建站及优化教程 (Vultr & 搬瓦工VPS亲测)**https://drive.google.com/file/d/0BxikF7na50-sZWVaelllVDB5RFk/view
+
+
 军哥https://lnmp.org/download.htm
 
 秋水逸冰 https://teddysun.com/ 
