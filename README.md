@@ -22,9 +22,9 @@ oneinstack环境包 https://oneinstack.com/install/
 
 安装 Google BBR 加速VPS网络 http://blog.leanote.com/post/quincyhuang/google-bbr
 
-======
 
-VPS linux命令
+
+###### VPS linux命令
 查看目录文件大小 ```/;du -sh * ```
 
 
