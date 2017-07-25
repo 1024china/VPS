@@ -32,9 +32,10 @@ https://www.91yun.co/
 # VPS linux环境
 **使用搬瓦工的VPS搭建博客网站 - 老高的技术博客.pdf** https://drive.google.com/file/d/0BxikF7na50-sYUxiMzNDTzVxbUU/view
 **使用搬瓦工的VPS搭建博客网站 - 老高的技术博客.pdf** https://drive.google.com/file/d/0BxikF7na50-sYUxiMzNDTzVxbUU/view
-**在Liunx上彻底删除kangle服务器 - 老高的技术博客.pdf **https://drive.google.com/file/d/0BxikF7na50-sUXNnMDJkbC1GR0k/vie
-**VPS安全之SSH设置 - 老高的技术博客.pdf **https://drive.google.com/file/d/0BxikF7na50-sa0JtWTBoY25pcGM/view
-**VPS搭建LAMP安装WordPress建站及优化教程 (Vultr & 搬瓦工VPS亲测)**https://drive.google.com/file/d/0BxikF7na50-sZWVaelllVDB5RFk/view
+**在Liunx上彻底删除kangle服务器 - 老高的技术博** https://drive.google.com/file/d/0BxikF7na50-sUXNnMDJkbC1GR0k/vie
+**VPS安全之SSH设置** https://drive.google.com/file/d/0BxikF7na50-sa0JtWTBoY25pcGM/view
+**VPS搭建LAMP安装WordPress建站及优化教程 (Vultr & 搬瓦工VPS亲测)** https://drive.google.com/file/d/0BxikF7na50-sZWVaelllVDB5RFk/view
+**搬瓦工(bandwagonhost)后台管理VPS&安全设置 - 老高的技术博客** https://drive.google.com/file/d/0BxikF7na50-sb0F5MEdjbGNxcGM/view
 
 
 军哥https://lnmp.org/download.htm
