@@ -95,7 +95,7 @@ C4pFKMFvr4Yr
 ![](https://github.com/1024china/VPS/blob/master/1.png)
 
 
-![](https://github.com/1024china/VPS/blob/master2.png)
+![](https://github.com/1024china/VPS/blob/master/2.png)
 
 
 ![](https://github.com/1024china/VPS/blob/master/3.jpg)
